@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [a quiz app made with React](https://github.com/MariaLepn/Quiz-app)
+- 🔭 I’m currently enrolled in **Google Data Analytics** course
 
 - 🌱 I’m currently learning **JavaScript, SQL, React**
 
-- 🤝 I’m looking for help with **finding my first developer job**
+- 🤝 I’m looking for help with **finding my first job in IT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MariaLepn?tab=repositories](https://github.com/MariaLepn?tab=repositories)
 
