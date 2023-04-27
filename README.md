@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate career changer</h3>
 
 - 🔭 I’m currently enrolled in **Google Data Analytics** course
 
